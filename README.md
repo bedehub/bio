@@ -1,53 +1,58 @@
-<h1 align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48¢er=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hai!+👋;+Saya+BedeHub!;" /> 
-</h1> 
-- 🌱 Saat ini saya sedang mempelajari **[ Desain Sistem ]( https://blog.bytebytego.com/p/free-system-design-pdf-158-pages )** 
-- 💬 Tanyakan kepada saya tentang **Laravel, Node.js, React...atau apa pun [ di sini ]( https://github.com/{USERNAME}/{USERNAME}/issues )**
+<div align="center">
 
- <br> 
+[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/jdg2896)
+Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
-<div align="center"> 
-  <a href="chijiokeokorji@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> 
-  </a> 
-  <a href="https://linkedin.com/in/chijiokeokorji" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=untuk-lencana&logo=linkedin&logoColor=putih" target="_blank" /> 
-  </a> 
-  <a href="https://medium.com/@chijiokeokorji" target="_blank"> 
-    <img src="https://img.shields.io/badge/Medium-000000?style=untuk-lencana&logo=medium&logoColor=putih" target="_blank" /> 
-  </a> 
-  <a href="https://codepen.io/chijiokeokorji" target="_blank"> 
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=untuk-lencana&logo=codepen&logoColor=putih" target="_blank" /> 
-  </a> 
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jdg2896) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+
 </div>
-<hr>
 
-🛠️ Bahasa dan Alat
- <br>
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" /> 
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" /> 
-</p> 
+- 🌱 I’m passionate about [serverless in AWS](https://aws.amazon.com/serverless/) and [Web3](https://ethereum.org/en/web3/).
+- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
+- ⚡ Fun fact: I read books, play the piano, and sleep with my dog!
 
-<hr>
+<div align="center">
 
-⚡️ Statistik
+## 💡 A Quote:
 
- <br> 
-<div align=center> 
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Statistik GitHub ChijiokeOkorji" /> 
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Statistik GitHub ChijiokeOkorji" /> 
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Bahasa yang Paling Banyak Digunakan ChijiokeOkorji" /> 
-</div> 
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<hr>
+## 💻 My Tech Stack:
 
-<div align="center"> 
-  <gambar> 
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" /> 
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" /> 
-    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" /> 
-  </gambar> 
+[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+
+## 📖 Read My Blogs:
+
+<p>
+    <a target="_blank"href="https://dev.to/jdg2896"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://jdg2896.hashnode.dev/"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://medium.com/@jdg2896"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
+</p>
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jdg2896&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdg2896&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
+
+## 🤝 My Contributions and [POAPs](https://www.gitpoap.io/p/0x994cca07c9f25fe84211ea61b61eab5552a32c6d):
+
+<p>
+    <a target="_blank"href="https://www.gitpoap.io/gp/893"><img height=175 alt="Taiko GitHub Contributor 2023" src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap3a-2023-taiko-contributor-2022-logo-1671723111328.png&w=750&q=75" />&nbsp;&nbsp;
+    <a target="_blank"href="https://www.gitpoap.io/gp/879"><img height=175 alt="Ethereum.org GitHub Contributor 2023" src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap3a-2023-ethereumorg-contributor-2022-logo-1671568487547.png&w=750&q=75" />&nbsp;&nbsp;
+    <a target="_blank"href="https://poap.gallery/event/128736"><img height=175 alt="ZK-Roller-Coaster Taiko Research Contributor" src="https://assets.poap.xyz/taiko-research-contributors-2023-logo-1685987761596.png" />&nbsp;&nbsp;
+    <a target="_blank" href="https://collectors.poap.xyz/en-US/token/6673781"><img height=175 alt="Double Your DeFi Cohort 2: May 2023" src="https://assets.poap.xyz/0c6eaacb-d527-479b-8a0e-d9e60726851d.png" />&nbsp;&nbsp;
+</p>
+
+## 🎮 When I'm AFK:
+
+![PlayStation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) &nbsp;
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
+![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+
 </div>
- <hr>
-
