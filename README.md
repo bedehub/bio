@@ -43,3 +43,56 @@
 </div> 
 
 <hr>
+
+Bahasa Indonesia: # GitHub Action untuk membuat grafik kontribusi dengan ular yang memakan kontribusi Anda.
+ name: Generate Snake 
+
+# Mengontrol kapan tindakan akan berjalan.
+ on: 
+  schedule: 
+      # setiap 12 jam 
+    - cron: "0 */12 * * *"
+
+   # Perintah ini memungkinkan kita untuk menjalankan Action secara otomatis dari tab Actions. 
+  workflow _dispatch: 
+  
+  # Juga jalankan pada setiap push di cabang utama 
+  push: 
+    branches: 
+    - main 
+
+# Urutan eksekusi dalam alur kerja ini: 
+jobs: 
+  # Alur kerja ini berisi satu pekerjaan yang disebut "build" 
+  build: 
+    # Jenis runner tempat pekerjaan akan berjalan 
+    runs-on: ubuntu-latest 
+
+    # Langkah-langkah mewakili urutan tugas yang akan dijalankan sebagai bagian dari 
+    langkah-langkah pekerjaan: 
+      - name: Klon repo 
+        uses: actions/checkout@v3 
+    
+      - name: Hasilkan file ular di './dist/' 
+        uses: Platane/snk@v3 
+        id: snake-gif 
+        with: 
+          github_ user _name: ${{ github.repository_ owner }} 
+          outputs: | 
+            dist/github-contribution-grid-snake.svg 
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark 
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9 
+        env: 
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+
+      - name: Menampilkan status pembangunan 
+        jalankan: git status 
+
+      - name: Mendorong berkas baru ke cabang keluaran 
+        menggunakan: crazy-max/ghaction-github-pages@v3.1.0 
+        dengan: 
+          target_branch: keluaran 
+          build_dir: dist 
+          commit_message: Memperbarui animasi ular 
+        env: 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
