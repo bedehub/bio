@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/CodePen-1e1f26?style=untuk-lencana&logo=codepen&logoColor=putih" target="_blank" /> 
   </a> 
 </div>
+<hr>
 ## 🛠️ Bahasa dan Alat
 
  <br> 
