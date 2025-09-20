@@ -20,5 +20,13 @@
     <img src="https://img.shields.io/badge/CodePen-1e1f26?style=untuk-lencana&logo=codepen&logoColor=putih" target="_blank" /> 
   </a> 
 </div>
+## 🛠️ Bahasa dan Alat
 
- <hr>
+ <br> 
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" /> 
+</p> 
+
+<hr>
