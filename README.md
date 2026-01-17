@@ -8,7 +8,7 @@ Lifelong Learner, currently working as budagh kompeni.
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-### <summary><strong>Yosh!</strong></summary>
+### <summary><strong>bede!</strong></summary>
 <p>
     - :keyboard: I’m currently learning Data Analytics. </br>
     - :speech_balloon: Ask me about anything.</br>
